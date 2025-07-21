@@ -1,1 +1,0 @@
-Select * from order where order_id = 12345;
